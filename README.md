@@ -52,7 +52,7 @@ Python, NumPy and the material of the [Machine Learning Course](https://github.c
 
 ## Author
 
-**Keyvan Mahmoudi**, PhD student in Natural Language Processing, University of Tehran
+**Keyvan Mahmoudi**, PhD student in computer engineering, University of Tehran
 [LinkedIn](https://www.linkedin.com/in/keyvan-mahmoudi-7b3280103) · [Hugging Face](https://huggingface.co/KeyvanMahmoudi)
 
 ## License
