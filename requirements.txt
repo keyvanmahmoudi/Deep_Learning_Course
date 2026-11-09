@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
+transformers
+datasets
+huggingface_hub
+gensim

@@ -1,5 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
+*.pyc
+.DS_Store
 data/
 *.pt
-.DS_Store
+parsbert-sentiment-dksf/
+my_photos/
